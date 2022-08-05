@@ -1,12 +1,6 @@
-import React, { useEffect } from "react";
 import Page from "./Page";
 
 function About() {
-  // useEffect(() => {
-  //   document.title = "About Us | Complex App";
-  //   window.scrollTo(0, 0);
-  // }, []);
-
   return (
     <Page title="About us">
       <h2>About Us</h2>

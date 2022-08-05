@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react"
 
 // change from small to large screen size
 
